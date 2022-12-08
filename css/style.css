@@ -1,0 +1,38 @@
+.ahmed{
+    background-color: rebeccapurple;
+    color: #fff;
+    text-align: center;
+    padding: 20px ;
+    width: 40%;
+    margin: 30px auto;
+    font-family: 'Kenia', cursive;
+
+    
+}
+.fa-facebook {
+    font-size: 26px;
+    background-color: #00f;
+    padding: 6px;
+}
+.demo{
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+    font-family: 'Zen Dots', cursive;
+}
+
+
+  /* Default height for small devices */
+  #intro-example {
+    height: 400px;
+  }
+
+  /* Height for devices larger than 992px */
+  @media (min-width: 992px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
